@@ -1,1 +1,1 @@
-# 20180126_Control_of_Mobile_Robot
+This is the showcase for what I learned in the course "control of mobile robot". Video will be uploaded ASAP.
